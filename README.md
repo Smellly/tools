@@ -1,7 +1,7 @@
 # tools
 some tools I used
 
- # switchover-cudnn-version.sh
+ ## switchover-cudnn-version.sh
  usage:
  ```
  # switch to cudnn-4
